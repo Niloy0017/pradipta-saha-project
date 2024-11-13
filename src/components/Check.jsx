@@ -32,7 +32,7 @@ export default function Check() {
         {
           frontimage ? (<img src='src\assets\blogdot-front.jpg' className='col-7 col-lg-9'/>)
             :
-            (<img src='src\assets\blogdot-back.jpg' className='col-8 col-lg-10' />)
+            (<img src='src\assets\blogdot-back.jpg' className='col-7 col-lg-9' />)
         }
         <span></span>
         <img src='src\assets\right-arrow.png' className='col-1 mx-3' onClick={imagehandler} />
