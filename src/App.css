@@ -154,28 +154,20 @@
 }
 
 .wrapper {
-  /* max-width: 1422px; */
   height: auto;
   text-align: center;
-  /* background-color: beige; */
 }
 
 .hero {
-  /* width: 1140px; */
   width: 100%;
   background: linear-gradient(-135deg,#FFE500 5%, white 70%);
   backdrop-filter: blur(457px);
 }
 .hero-1 {
-  /* width: 589px; */
-  /* width: 45%; */
-  /* height: 446px; */
   top: 283px;
   left: 146px;
 }
 .hero-2 {
-  /* width: 670px; */
-  /* width: 55%; */
   height: 578px;
   border-bottom-right-radius: 60px;
   position: relative;
@@ -203,8 +195,6 @@
   left: 10%;
 }
 .onetaag-logo {
-  /* top: 433px;
-  left: 827px; */
   top: 47%;
   left: 38%;
   width: 29px;
@@ -226,11 +216,8 @@
 }
 
 .team {
-  /* width: 1140px; */
-  /* height: 600px; */
   min-height: 600px;
   height: auto;
-  /* background-color: #FFE500; */
 }
 .team-img {
   width: 473px;
@@ -239,30 +226,23 @@
   left: 0;
   z-index: 2;
   position: absolute;
-  /* background-color: #9702FA; */
   object-fit: cover;
 }
 .team-right{
   height: 600px;
 }
 .team-left {
-  /* width: 559px; */
   height: 468px;
-  /* top: 951px;
-  left: 716px; */
 }
 .team-img-rectangle {
   width: 351px;
   height: 543px;
-  /* top: 0;  
-  left: 0;  */
   border-radius: 39px;
   opacity: 30%;
   position: absolute;
   z-index: 1;
   background: linear-gradient(110.97deg, #FFE500 -32.84%, #9702FA 109.18%);
 }
-
 
 .work-box {
   width: 23%;
@@ -298,10 +278,6 @@
   background: linear-gradient(to left, #FFE5001A 5%, white 20%);
   backdrop-filter: blur(279.6000061035156px)
 }
-/* .check-arrow{
-  width: 40px;
-  height: 20px;
-} */
 .text-border {
   color: yellow; 
   -webkit-text-stroke: 2px black;
@@ -309,7 +285,6 @@
 
 
 .reach {
-  /* width: 1140px; */
   min-height: 224px;
   border-radius: 20px;
   background: #FFE500;
@@ -319,9 +294,6 @@
   height: 50px;
 }
 
-/* .footer {
-  width: 1140px;
-} */
 .footer-1 {
   width: 366px;
 }
